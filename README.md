@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Welcome to this GitHub Repository!
 
-<!--
-**barryadama/barryadama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Across different repos, you’ll find the code for my projects in **Machine Learning**, **Design of Experiments (DoE)**, and **Gaussian Process (GP) Emulation**.
 
-Here are some ideas to get you started:
+🔗 My personal GitHub page: [https://barryadama.github.io](https://barryadama.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=barryadama&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img width="220" src="https://cdn-icons-png.flaticon.com/512/924/924915.png" alt="Geek Icon"/><br>
+  <em>💻 Data Science | Statistics | Computer Science</em>
+</p>
+
+---
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barryadama&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=barryadama&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+📫 Feel free to contact me at: <a href="mailto:adambarry207@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-adambarry207@gmail.com-red?logo=gmail&logoColor=white&style=flat-square"/>
+</a>
