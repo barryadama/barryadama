@@ -1,4 +1,4 @@
-## 👋 Welcome to this GitHub Repository!
+## 👋 Welcome!
 
 Across different repos, you’ll find the code for my projects in **Machine Learning**, **Design of Experiments (DoE)**, and **Gaussian Process (GP) Emulation**.
 
