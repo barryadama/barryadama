@@ -5,7 +5,7 @@
 
 ---
 ## Adama Barry &nbsp;·&nbsp; `@barryadama`
-> Data Scientist · Applied Mathematician
+> PhD in Statistics | R&D Data Scientist
 
 ![machine-learning](https://img.shields.io/badge/machine--learning-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
 ![gaussian-processes](https://img.shields.io/badge/gaussian--processes-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
@@ -16,7 +16,7 @@
 
 ### `// domains`
 
-| 🧠 Machine Learning | 📊 Design of Experiments | 〰️ GP Emulation |
+| 🧠 Machine Learning | 📊 Design of Experiments | 〰️ Emulation |
 |---|---|---|
 | Deep learning · Predictive modeling | Space-filling · Optimal DoE | Uncertainty quantification |
 
