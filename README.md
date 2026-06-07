@@ -7,10 +7,10 @@
 ## Adama Barry &nbsp;·&nbsp; `@barryadama`
 > PhD in Statistics | R&D Data Scientist
 
-![machine-learning](https://img.shields.io/badge/machine--learning-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
-![gaussian-processes](https://img.shields.io/badge/gaussian--processes-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
-![bayesian-inference](https://img.shields.io/badge/bayesian--inference-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
-![doe](https://img.shields.io/badge/doe-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
+![Data Science](https://img.shields.io/badge/machine--learning-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
+![machine-learning](https://img.shields.io/badge/gaussian--processes-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
+![Uncertainty Quantification](https://img.shields.io/badge/bayesian--inference-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
+![DOE](https://img.shields.io/badge/doe-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
 
 ---
 
