@@ -8,9 +8,9 @@
 > PhD in Statistics | R&D Data Scientist
 
 ![Data Science](https://img.shields.io/badge/Data--Science-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
-![machine-learning](https://img.shields.io/badge/gaussian--processes-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
-![Uncertainty Quantification](https://img.shields.io/badge/bayesian--inference-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
-![DOE](https://img.shields.io/badge/doe-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
+![machine-learning](https://img.shields.io/badge/machine--learning-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
+![Uncertainty Quantification](https://img.shields.io/badge/Uncertainty--Quantification-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
+![DOE](https://img.shields.io/badge/DOE-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
 
 ---
 
