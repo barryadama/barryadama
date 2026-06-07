@@ -25,7 +25,7 @@
 ### `// github activity`
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barryadama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=94a3b8"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barryadama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=cbd5e1"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=barryadama&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa"/>
 </p>
 
