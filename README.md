@@ -4,7 +4,7 @@
 </div>
 
 ---
-## Adama Barry &nbsp;·&nbsp; `@barryadama`
+## Adama Ibrahim Barry &nbsp;·&nbsp; `@barryadama`
 > PhD in Statistics | R&D Data Scientist
 
 ![Data Science](https://img.shields.io/badge/Data--Science-0d1117?style=flat-square&labelColor=0d1117&color=1877F2)
