@@ -1,16 +1,16 @@
 <!-- Terminal header -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=barryadama&label=views&color=38bdf8&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=barryadama&label=views&color=1877F2&style=flat-square" alt="Profile views"/>
 </div>
 
 ---
 ## Adama Barry &nbsp;·&nbsp; `@barryadama`
 > PhD in Statistics | R&D Data Scientist
 
-![Data Science](https://img.shields.io/badge/Data--Science-0d1117?style=flat-square&labelColor=0d1117&color=38bdf8)
-![machine-learning](https://img.shields.io/badge/machine--learning-0d1117?style=flat-square&labelColor=0d1117&color=38bdf8)
-![Uncertainty Quantification](https://img.shields.io/badge/Uncertainty--Quantification-0d1117?style=flat-square&labelColor=0d1117&color=38bdf8)
-![DOE](https://img.shields.io/badge/DOE-0d1117?style=flat-square&labelColor=0d1117&color=38bdf8)
+![Data Science](https://img.shields.io/badge/Data--Science-0d1117?style=flat-square&labelColor=0d1117&color=1877F2)
+![machine-learning](https://img.shields.io/badge/machine--learning-0d1117?style=flat-square&labelColor=0d1117&color=1877F2)
+![Uncertainty Quantification](https://img.shields.io/badge/Uncertainty--Quantification-0d1117?style=flat-square&labelColor=0d1117&color=1877F2)
+![DOE](https://img.shields.io/badge/DOE-0d1117?style=flat-square&labelColor=0d1117&color=1877F2)
 
 ---
 
